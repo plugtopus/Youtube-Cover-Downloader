@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Click on icon, download and save background image from the currently playing youtube video"
+   },
+   "name": {
+      "message": "Youtube Cover Downloader"
+   },
+   "shortname": {
+      "message": "Youtube Cover Downloader"
+   },
+   "title": {
+      "message": "Download youtube cover"
+   }
+}
